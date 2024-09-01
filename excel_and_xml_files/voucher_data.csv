@@ -1,0 +1,16 @@
+Date,Voucher Type,Date.1,Month,Reference No,Ledger Name,Effect,Amount,Ledger Name.1,Effect.1,Amount.1
+2024-07-05,Payment,29,2,1,Salary_Payable_A,Dr,20,SBI,Cr,20
+2023-07-05,Payment,5,7,2,Salary_Payable_A,Cr,20,SBI,Dr,20
+2023-07-12,Payment,12,7,3,SBI,Cr,10,Simplain_LLC,Dr,10
+2023-07-05,Receipt,5,7,4,Simplain_LLC,Cr,10,SBI,Dr,10
+2023-07-05,Journal,5,7,5,Salary_Paid,Dr,40,Salary_Payable_A,Cr,40
+2023-07-05,Contra,5,7,6,SBI,Cr,10,HDFC,Dr,10
+
+
+
+"C:\\Users\\Dell\\Downloads\\trial.xlsx"
+C:\Users\Dell\Downloads\trial.xml
+"C:\Users\Dell\Documents\Programming\Simplain_Project\voucher_data.xlsx"
+
+"C:\\Users\\Dell\\Documents\\Programming\\Simplain_Project\\voucher_data_xml.xml"
+C:\Users\Dell\Documents\Programming\Simplain_Project\voucher_data_xml.xml
